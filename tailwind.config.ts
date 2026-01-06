@@ -47,6 +47,11 @@ export default {
           DEFAULT: "hsl(var(--card))",
           foreground: "hsl(var(--card-foreground))",
         },
+        likert: {
+          detractor: "hsl(var(--likert-detractor))",
+          passive: "hsl(var(--likert-passive))",
+          promoter: "hsl(var(--likert-promoter))",
+        },
         sidebar: {
           DEFAULT: "hsl(var(--sidebar-background))",
           foreground: "hsl(var(--sidebar-foreground))",
